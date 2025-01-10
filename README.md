@@ -37,7 +37,7 @@ This is a demo website for demonstraing the analytics of social media handel bas
 
 ## Demo
 
-Link to demo : 
+Link to demo : https://social-metrics-zmwq.onrender.com/
 
 
 ## Authors
