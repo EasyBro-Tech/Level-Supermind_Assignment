@@ -23,15 +23,16 @@ This is a demo website for demonstraing the analytics of social media handel bas
 
 **Langflow** 
 
-![App Screenshot](https://github.com/EasyBro-Tech/Pre_Hackathon_Ass/blob/main/assets/chatFlow.png)
+![App Screenshot](https://github.com/EasyBro-Tech/Level-Supermind_Assignment/blob/main/assets/chatFlow.png)
+
 
 **DataStax astra db** 
 
-![App Screenshot](https://github.com/EasyBro-Tech/Pre_Hackathon_Ass/blob/main/assets/addingDataFlow.png)
+![App Screenshot](https://github.com/EasyBro-Tech/Level-Supermind_Assignment/blob/main/assets/addingDataFlow.png)
 
 **Frontend** 
 
-![App Screenshot](https://github.com/EasyBro-Tech/Pre_Hackathon_Ass/blob/main/assets/FRONTEND.png)
+![App Screenshot](https://github.com/EasyBro-Tech/Level-Supermind_Assignment/blob/main/assets/FRONTEND.png)
 
 
 ## Demo
